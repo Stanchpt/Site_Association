@@ -68,7 +68,7 @@
           <div class="row">
               <div class="col-lg-12 mx-auto align-items-center text-center">
                   <h2 class="text-white mb-4">ANIMATION</h4>
-                    <video width="55%" height="30%" autoplay controls id="video">
+                    <video width="75%" height="55%" autoplay controls id="video">
                       <source src="img/Animation.mp4" type="video/mp4">
                       Désolé mais ce support ne support pas cette fonction.
                     </video>
