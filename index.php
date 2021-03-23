@@ -61,7 +61,7 @@
         <div class="mx-auto text-center">
             <h1 class="mx-auto my-0 text-uppercase">SAC ANIMATION</h1>
             <br>
-            <h2 class="text-white-50 mx-auto mt-2 mb-5" id="Slogan">Le Temps des Verbes</h2>
+            <h2 class="mx-auto mt-2 mb-5" id="Slogan">Le Temps des Verbes</h2>
             <a href="about.php" class="btn btn-primary js-scroll-trigger">Nous Concernant >></a>
         </div>
         </div>
