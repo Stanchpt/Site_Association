@@ -116,6 +116,7 @@
   }
   
   #Slogan {
+    Color: yellow;
     font-family:'Calligraffitti';
     font-size: 40px;
     text-shadow: 2px 2px 2px black;
